@@ -1,0 +1,19 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=poulplasmoid
+Comment=Checks the open/close status of the POuL office
+ServiceTypes=Plasma/Applet
+Type=Service
+Icon=poul-plasmoid
+X-Plasma-API=python
+X-Plasma-MainScript=code/main.py
+
+X-KDE-PluginInfo-Author=Alessandro Sivieri
+X-KDE-PluginInfo-Email=alessandro.sivieri@gmail.com
+X-KDE-PluginInfo-Name=poulplasmoid
+X-KDE-PluginInfo-Version=0.3.3
+X-KDE-PluginInfo-Website=http://www.poul.org/
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
