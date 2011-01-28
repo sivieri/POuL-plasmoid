@@ -1,0 +1,10 @@
+POuL plasmoid
+
+For installing, create a zip file from this directory, then rename the
+file as nomefile.plasmoid, and install it with
+
+plasmapkg -i nomefile.plasmoid
+
+Remember to use "-u" if upgrading from a preceding version.
+
+Alessandro Sivieri
